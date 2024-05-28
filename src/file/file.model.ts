@@ -1,0 +1,4 @@
+interface FileParams {
+    img : string;
+}
+  
